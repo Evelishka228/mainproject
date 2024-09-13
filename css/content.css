@@ -1,0 +1,10 @@
+#myhead{
+    color:rgb(0, 0, 0);
+    font-size: 36px;
+    }
+    
+    /* iff we have id, we use # */
+    
+    a{
+      text-decoration: none;  
+    }
